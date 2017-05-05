@@ -1,7 +1,7 @@
 #content{
 	width: 80%;
 	height: 300px;
-	background-color: #AAE4FF;
+	background-color: #D9F2F9;
 	margin-left: 10%;
 	margin-top: 20px;
 	border-radius: 10px;
@@ -16,7 +16,7 @@
 	text-align: center;
 }
 #content ul li a{
-	color:#607D8B;
+	color:#1C2328;
 }
 #content ul li a:hover{
 	color: #ff9800;
@@ -27,7 +27,7 @@
 	height: 100px;
 	float: left;
 	margin-top: 20px;
-	background-color: #223F4D;
+	background-color: #283840;
 	color: #578095;
 }
 #footer p{
@@ -40,7 +40,7 @@
 #footer p a:hover{
 	color: white;
 }
-#footer #top{
+#footer #totop{
 	font-size: 16px;
 	color: #8CB9D9;
 	margin-right: 80px;
